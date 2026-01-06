@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Md%20Rokonuzzaman&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Passionate%20Full-Stack%20Developer&descAlignY=55&descSize=25)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Minju%20Begum&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Passionate%20Full-Stack%20Developer&descAlignY=55&descSize=25)
 
 <div align="center">
 
@@ -49,6 +49,8 @@
 <br />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLServer-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 **Tools & Platforms:**
 <br />
